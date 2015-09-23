@@ -1,3 +1,3 @@
-# greenlightpix
+# geraldzingraf
 Repository created and managed by Gerald Zingraf
-Owned by GreenLight Pix
+Owned by Gerald Zingraf
